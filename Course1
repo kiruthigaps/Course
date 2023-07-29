@@ -10,3 +10,6 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+KIRUTHIGA RAJENDRAN
+Divide and Conquer Algorithms 
+Divide the given problem into subproblems. Then solve the subproblems and combine it to get the final solution. Eg Merge Sort
